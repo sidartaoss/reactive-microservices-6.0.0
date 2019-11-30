@@ -1,0 +1,15 @@
+quote-generator/target/
+quote-generator/.settings/
+quote-generator/.vertx/
+quote-generator/.vscode/
+
+quote-generator/.classpath
+quote-generator/.project
+
+.git/
+.settings/
+.vscode/
+
+.classpath
+.project
+
